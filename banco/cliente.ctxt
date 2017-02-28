@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nom\ ed
+comment0.target=cliente(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ abrirc()
+comment2.params=
+comment2.target=void\ consultarSaldo()
+comment3.params=d
+comment3.target=void\ meterd(float)
+comment4.params=d
+comment4.target=void\ sacard(float)
+numComments=5
